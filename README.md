@@ -8,6 +8,8 @@ including obesity, hypertension, high cholesterol, and diabetes. I then look to 
 dietician care by identifying the burden that these diet-related conditions place on the healthcare system Of course, this case doesn't 
 need to be made and is more of a illustrative excercise, as most insurance providers currently cover care from the above mentioned platforms. 
 
+Check out the [interactive dashboard I created](https://public.tableau.com/views/NHANES_Virtual_Dietician_Analysis/Dashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 ## Key Findings
 - Nearly 2 in 3 American adults has a diet-related condition, over 92% of whom have health insurance.
 - Women aged 46-55 are the most likely to adopt virtual dietician care. 
